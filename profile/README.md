@@ -43,7 +43,7 @@ Cobalt is built and maintained by one developer, [zlexif](https://github.com/zle
 
 ## License
 
-Cobalt's resources are under the Project Cobalt License: free to run on any server, paid servers included. Changes stay public under the same license. The code can't be sold, and it keeps the Project Cobalt name and `cobalt_` prefix. cobalt_core is GPL-3.0 and cobalt_mysql is LGPL-3.0, from the projects they build on. Third-party resources keep their own licenses.
+Cobalt's resources are under the Project Cobalt License: free to run on any server, paid servers included. Changes stay public under the same license. The code can't be sold, and it keeps the Project Cobalt name and `cobalt_` prefix. Third-party resources keep their own licenses.
 
 Documentation: https://docs.projectcobalt.net
 
