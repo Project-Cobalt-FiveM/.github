@@ -41,4 +41,10 @@ Cobalt is built and maintained by one developer, [zlexif](https://github.com/zle
 | World | Housing, garages, dealership, vehicle keys, weather and time, audio |
 | Interface | Notifications, menus, dialogs, HUD, chat, loading screen and character selection |
 
+## License
+
+Cobalt's resources are under the Project Cobalt License: free to run on any server, paid servers included. Changes stay public under the same license. The code can't be sold, and it keeps the Project Cobalt name and `cobalt_` prefix. cobalt_core is GPL-3.0 and cobalt_mysql is LGPL-3.0, from the projects they build on. Third-party resources keep their own licenses.
+
+Documentation: https://docs.projectcobalt.net
+
 Cobalt is in development and not yet released. Follow [projectcobalt.net](https://projectcobalt.net) or join the [Discord](https://discord.gg/wFneTufDq9) for the first release.
