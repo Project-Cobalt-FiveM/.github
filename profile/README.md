@@ -16,6 +16,9 @@
   <a href="https://github.com/Project-Cobalt-FiveM">
     <img src="https://img.shields.io/badge/GitHub-Project--Cobalt--FiveM-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://discord.gg/wFneTufDq9">
+    <img src="https://img.shields.io/badge/Discord-Project%20Cobalt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 </div>
@@ -38,4 +41,4 @@ Cobalt is built and maintained by one developer, [zlexif](https://github.com/zle
 | World | Housing, garages, dealership, vehicle keys, weather and time, audio |
 | Interface | Notifications, menus, dialogs, HUD, chat, loading screen and character selection |
 
-Cobalt is in development and not yet released. Follow [projectcobalt.net](https://projectcobalt.net) for the first release.
+Cobalt is in development and not yet released. Follow [projectcobalt.net](https://projectcobalt.net) or join the [Discord](https://discord.gg/wFneTufDq9) for the first release.
